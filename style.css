@@ -1,0 +1,41 @@
+*{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url(tumama.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    height: 100vh;
+    position: relative;
+}
+.text h1{ 
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #14212f;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 8px;
+    color:#24384f
+}
+.text p{
+    color:#b6dded;
+    font-size: 30px;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #2b3e53;
+}
+hr {
+    height: px;
+    width: 150px;
+    background-color: #b6dded;
+}
+img {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+.guan {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#b6dded
+}
